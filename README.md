@@ -1,6 +1,9 @@
 # 100MHz-Differential-Probe
 100 MHz Differential Probe V2
 
+There is a new and updated design for this probe!
+https://github.com/paulvee/New-Differential-Probe-1-10-100MHz
+
 The description of this project can be found on my blog : 
 https://www.paulvdiyblogs.net/2017/10/differential-amplifier-probe-make-buy.html
 and also on Bud Bennets blog:
